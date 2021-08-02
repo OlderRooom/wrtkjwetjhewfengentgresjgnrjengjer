@@ -1,0 +1,21 @@
+{
+  "LastUpdated": "2021-07-30T14:32:20+00:00",
+  "UserGifts": {
+    "2842262378": [
+      {
+        "Id": 1190427493,
+        "AvatarItemDesc": "",
+        "ConsumableItemDesc": "",
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "CurrencyType": 2,
+        "Currency": 999999999,
+        "Xp": 0,
+        "Level": 0,
+        "GiftRarity": 50,
+        "Message": "lol",
+        "Context": 2
+      },
+    ]
+  }
+}
